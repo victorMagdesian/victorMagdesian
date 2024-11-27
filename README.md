@@ -3,7 +3,7 @@ Olá! Eu sou o Victor Felippe Magdesian.
 
 iniciei meus estudos em programação desde o ensino médio (2017) pelo youtube com o curso de java do canal [Curso em video](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR).
 
-Em 2020, entrei para FIAP cursando engenharia da computação, curso que está trancado no momento mas retomarei em janeiro de 2025 no setimo semestre
+Em 2020, entrei para FIAP cursando engenharia da computação, curso que está trancado no momento.
 
 Em 2021 fui contratado no banco [modalMais](https://www.modalmais.com.br) para trabalhar com desenvolvimento full-stack sendo back-end com .NET com apis REST e front mobile nativo IOS com SWIFT, trabalhei lá até o final de 2022
 
